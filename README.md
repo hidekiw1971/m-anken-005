@@ -38,10 +38,12 @@
 
 ## 参考にしたサイト
 
-- xxx
+- 日付や時刻を属性値で指定する
+- https://www.tagindex.com/html5/text/time_datetime.html
 
 ## 更新履歴
 
+- 2022/4/13 `card`sp サイズ完成（バッジは除く）。ps サイズはこれから。
 - 2022/4/13 `card`作成中（sp 部分）
 
 ## 環境・使い方

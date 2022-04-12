@@ -248,6 +248,8 @@ select::-ms-expand {
   line-height: 1.8571428;
   color: #000;
   background-color: #ffea2e;
+  padding: 1px 4px;
+  padding: 0.0625rem 0.25rem;
 }
 .card__content--inner {
   display: -webkit-box;
@@ -262,11 +264,14 @@ select::-ms-expand {
   width: 100%;
   text-align: left;
   background-color: #fff;
-  overflow: hidden;
   padding-top: 4px;
   padding-top: 0.25rem;
   padding-bottom: 16px;
   padding-bottom: 1rem;
+  padding-right: 23px;
+  padding-right: 1.4375rem;
+  padding-left: 23px;
+  padding-left: 1.4375rem;
 }
 .card__date--inner {
   display: inline-block;

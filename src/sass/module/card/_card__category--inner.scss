@@ -11,6 +11,8 @@
   // decoration
   color: #000;
   background-color: #ffea2e;
+  // space
+  padding: rem(1) rem(4);
   @include mq(md) {
   }
   @include mq(xl) {
