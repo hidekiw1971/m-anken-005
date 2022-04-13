@@ -40,9 +40,15 @@
 
 - 日付や時刻を属性値で指定する
 - https://www.tagindex.com/html5/text/time_datetime.html
+- CSS の疑似クラス last-child とは?その他のおすすめ疑似クラスも解説!
+- https://www.sejuku.net/blog/83896
+- カードの左上に配置した円形バッジ
+- https://pa-tu.work/t/7059
+-
 
 ## 更新履歴
 
+- 2022/4/14 `card`sp サイズ完成（バッジも完成）。
 - 2022/4/13 `card`sp サイズ完成（バッジは除く）。ps サイズはこれから。
 - 2022/4/13 `card`作成中（sp 部分）
 
