@@ -1,7 +1,5 @@
 @use "global" as *;
-.card__inner {
-  // space
-  padding-bottom: rem(24);
+.blog__content {
   @include mq(md) {
   }
   @include mq(xl) {
