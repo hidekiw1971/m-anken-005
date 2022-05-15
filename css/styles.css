@@ -410,6 +410,10 @@ select::-ms-expand {
   background-image: url(/images/Rectangle1@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
   position: absolute;
   top: 0;
   left: 0;
@@ -421,6 +425,10 @@ select::-ms-expand {
   background-image: url(/images/Rectangle2@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
   position: absolute;
   top: 0;
   left: 0;
@@ -432,6 +440,10 @@ select::-ms-expand {
   background-image: url(/images/Rectangle3@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
   position: absolute;
   top: 0;
   left: 0;
@@ -439,6 +451,7 @@ select::-ms-expand {
 .card__img {
   display: block;
   width: 100%;
+  overflow: hidden;
   position: relative;
 }
 .card__img::before {
