@@ -8,6 +8,8 @@
   background-image: url(/images/Rectangle1@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  transform: scale(1);
+  transition: 0.1s;
   // ajustment -> `.card__img`
   position: absolute;
   top: 0;
@@ -28,6 +30,8 @@
   background-image: url(/images/Rectangle2@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  transform: scale(1);
+  transition: 0.1s;
   // ajustment -> `.card__img`
   position: absolute;
   top: 0;
@@ -48,6 +52,8 @@
   background-image: url(/images/Rectangle3@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
+  transform: scale(1);
+  transition: 0.1s;
   // ajustment -> `.card__img`
   position: absolute;
   top: 0;
